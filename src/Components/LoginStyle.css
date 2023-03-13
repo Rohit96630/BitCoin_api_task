@@ -1,0 +1,44 @@
+
+.container{
+    margin: 0 auto;
+    width: 450px;
+    height: 400px;
+
+}
+.Login_form{
+   
+    justify-content: center;
+    align-items: center;
+background-color: rgb(178, 228, 224);
+
+}
+.Login_form h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.content input{
+width: 80%;
+padding: 18px;
+margin: 20px;
+}
+.Login_form label{
+    font-weight: 800;
+    padding: 20px;
+}
+.content button{
+    background-color: black;
+    color: white;
+    width: 40%;
+    text-align: center;
+
+    padding: 15px;
+    margin-left: 120px;
+    margin-bottom: 20px; 
+}
+.Errors{
+    color: red;
+    margin-bottom: 9px;
+    margin-top: -10px;
+    padding-left: 20px;
+
+}
